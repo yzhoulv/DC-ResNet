@@ -1,0 +1,12 @@
+001_Kinect_NU_1/07.jpg 0
+001_Kinect_NU_1/08.jpg 0
+001_Kinect_NU_1/09.jpg 0
+001_Kinect_NU_1/10.jpg 0
+001_Kinect_NU_1/11.jpg 0
+001_Kinect_NU_1/12.jpg 0
+002_Kinect_NU_1/07.jpg 1
+002_Kinect_NU_1/08.jpg 1
+002_Kinect_NU_1/09.jpg 1
+002_Kinect_NU_1/10.jpg 1
+002_Kinect_NU_1/11.jpg 1
+002_Kinect_NU_1/12.jpg 1
